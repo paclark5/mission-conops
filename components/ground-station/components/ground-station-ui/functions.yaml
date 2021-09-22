@@ -1,0 +1,16 @@
+name: beacon monitor
+description: Beacon Monitor
+inputs: 
+  - name: {{name}}
+    description: {{description}}
+    type: {{type}}
+    units: {{units}}
+    defaultValue: {{defaultValue}}
+    constraints: {{constraints}}
+outputs:
+  - name: {{name}}
+    description: {{description}}
+    type: {{type}}
+    units: {{units}}
+    defaultValue: {{defaultValue}}
+    constraints: {{constraints}}
